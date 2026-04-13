@@ -1,0 +1,22 @@
+{
+  "name": "febo",
+  "version": "1.0.0",
+  "description": "A personal finance and budgeting application",
+  "homepage": "https://github.com/mrPrince1x/Febo#readme",
+  "bugs": {
+    "url": "https://github.com/mrPrince1x/Febo/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrPrince1x/Febo.git"
+  },
+  "license": "ISC",
+  "author": "Tomer Carni",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  }
+}
