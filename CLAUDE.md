@@ -12,19 +12,19 @@ Built with React Native + Expo, targeting both IOS devices and Android devices.
 
 ```bash
 # Start the Expo dev server
-npm start
+bun start
 
 # Run on Android device/emulator
-npm run android
+bun run android
 
 # Run on iOS simulator
-npm run ios
+bun run ios
 
 # Run in browser
-npm run web
+bun run web
 
 # Type check (no emit)
-npm run typecheck
+bun run typecheck
 ```
 
 ## Tech Stack
